@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+  padding: 25px;
+}
+
+.green-background {
+  background-color: #537f5a;
+}
+
+.yellow-background {
+  background-color: #f1ecb6;
+}
+
+.red-background {
+  background-color: #de545d;
+}
